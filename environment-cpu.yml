@@ -96,7 +96,7 @@ dependencies:
 - xz
 - zeromq
 - pytorch<0.4
-- bcolz
+- bcolz # Might have to install manually later
 - prompt_toolkit
 - pytest
 - pip:
